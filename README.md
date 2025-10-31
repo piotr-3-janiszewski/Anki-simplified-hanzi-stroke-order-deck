@@ -46,9 +46,9 @@ Below are a few example cards included in the deck:
 
 The deck includes example images to show what a note looks like. These images are included in the media files:
 
-- ![Example 1](Screenshot from 2025-10-31 02-18-24.png)
-- ![Example 2](Screenshot from 2025-10-31 02-18-33.png)
-- ![Example 3](Screenshot from 2025-10-31 02-18-44.png)
+<img src='Screenshot from 2025-10-31 02-18-24.png' width=500>
+<img src='Screenshot from 2025-10-31 02-18-33.png' width=500>
+<img src='Screenshot from 2025-10-31 02-18-44.png' width=500>
 
 These illustrate both the **animated stroke order** and the **static stroke-number images** that accompany each card.
 
