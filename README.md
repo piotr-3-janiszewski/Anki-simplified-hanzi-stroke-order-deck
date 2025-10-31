@@ -78,5 +78,5 @@ These illustrate both the **animated stroke order** and the **static stroke-numb
 1. Open Anki.
 2. Go to *File → Import...*
 3. Select the provided `.apkg` file.
-4. Copy the media files into the `collection.media` folder via `Tools -> Check Media -> View Files`.
+4. Copy the decompressed media files from the `collection.zip` into the `collection.media` folder via `Tools -> Check Media -> View Files`.
 5. Review cards to learn characters in frequency order.
